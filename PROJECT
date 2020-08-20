@@ -1,0 +1,7 @@
+domain: metal3.io
+repo: test/testcontroller
+resources:
+- group: metal3
+  kind: HardwareClassification
+  version: v1alpha1
+version: "2"
